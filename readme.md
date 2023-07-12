@@ -1,4 +1,4 @@
-# Ky eshte projekti i pare ne grup ne kete BOOTCAMP!
+# Ky është projekti i parë në grup në këtë BOOTCAMP!
 
 > #### Anëtarët e grupit janë:
 >
